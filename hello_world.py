@@ -1,1 +1,1 @@
-print("Hello from branch")
+sprint("Hello from release")
