@@ -1,1 +1,1 @@
-sprint("Hello from release")
+print("Hello from release")
